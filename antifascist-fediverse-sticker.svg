@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 49.999998"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="antifascist-fediverse-sticker.svg"
+   inkscape:export-filename="../../Desktop/antifascist-fediverse-sticker-1024.png"
+   inkscape:export-xdpi="520.19202"
+   inkscape:export-ydpi="520.19202"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title6">ANTIFASCIST FEDIVERSE</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1078646"
+     inkscape:cx="40.087964"
+     inkscape:cy="74.008549"
+     inkscape:window-width="1503"
+     inkscape:window-height="933"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Sticker"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:highlight-color="#f80000">
+    <circle
+       style="fill:#000000;stroke-width:1.32292;stroke-dashoffset:10.8;-inkscape-stroke:none;paint-order:fill markers stroke"
+       id="path1"
+       cx="25"
+       cy="25"
+       r="25"
+       inkscape:label="outer"
+       inkscape:highlight-color="#000000" />
+    <circle
+       style="fill:#ffffff;stroke-width:1.03188;stroke-dashoffset:10.8;-inkscape-stroke:none;paint-order:fill markers stroke"
+       id="path1-9"
+       cx="25"
+       cy="25"
+       r="19.5"
+       inkscape:label="inner"
+       inkscape:highlight-color="#ffffff" />
+    <g
+       id="fedi-writing"
+       inkscape:label="Fediverse"
+       inkscape:highlight-color="#ffffff">
+      <circle
+         style="display:none;fill:#000000;fill-opacity:0;stroke-width:1.28323;stroke-dashoffset:10.8;-inkscape-stroke:none;paint-order:fill markers stroke"
+         id="path1-9-5-4"
+         cx="-24.799999"
+         cy="-24.799999"
+         inkscape:transform-center-x="-0.18778543"
+         inkscape:transform-center-y="-1.2154858"
+         transform="matrix(0,-1,-1,0,0,0)"
+         r="24.25"
+         inkscape:label="Fediverse reference circle" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.02708px;line-height:0px;font-family:Inter;-inkscape-font-specification:'Inter Ultra-Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0.79375px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.114;stroke-dasharray:none;stroke-dashoffset:10.8;paint-order:fill markers stroke"
+         id="text4"
+         inkscape:label="Fediverse"><textPath
+           xlink:href="#path1-9-5-4"
+           startOffset="50%"
+           id="textPath4"
+           style="font-size:5.02708px;letter-spacing:0.79375px;fill:#ffffff;fill-opacity:1">FEDIVERSE</textPath></text>
+    </g>
+    <g
+       id="antifa-writing"
+       inkscape:label="Antifascist"
+       inkscape:highlight-color="#ffffff">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:0.00336651;stroke-width:1.114;stroke-dashoffset:10.8;paint-order:fill markers stroke"
+         id="path16"
+         cx="25"
+         cy="-25"
+         r="20.4"
+         transform="rotate(90)"
+         inkscape:label="Antifascist reference circle" />
+      <text
+         xml:space="preserve"
+         style="font-weight:800;font-size:5.02708px;line-height:0px;font-family:Inter;-inkscape-font-specification:'Inter Ultra-Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0.396875px;text-anchor:middle;fill:#ffffff;stroke-width:1.114;stroke-dashoffset:10.8;paint-order:fill markers stroke"
+         id="text1"
+         inkscape:label="Antifascist"><textPath
+           xlink:href="#path16"
+           startOffset="50%"
+           id="textPath16"><tspan
+             id="tspan1"
+             style="letter-spacing:0.396875px;fill:#ffffff;stroke-width:1.114">ANTIFASCIST</tspan></textPath></text>
+    </g>
+    <g
+       id="fedi-logo-black"
+       inkscape:label="Fediverse logo black"
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(0.18472964,0,0,0.18472964,19.482535,19.551798)"
+       inkscape:highlight-color="#000000">
+      <path
+         fill="#a730b8"
+         d="m -17.551906,7.474177 a 18.2278,18.2278 0 0 1 -7.7959,7.7597 l 42.7984,42.9653 10.3182,-5.2291 z m 56.4524,56.6704 -10.3182,5.2291 21.686,21.7708 a 18.2278,18.2278 0 0 1 7.7975,-7.7608 z"
+         id="path1-8-3"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#5496be"
+         d="m 64.188394,36.754077 1.7865,11.4272 27.4149,-13.8942 a 18.2278,18.2278 0 0 1 -4.9719,-9.8124 z m -14.0658,7.1282 -57.2891,29.0339 a 18.2278,18.2278 0 0 1 4.9728,9.8133 l 54.1027,-27.4194 z"
+         id="path2-1"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#ce3d1a"
+         d="m 4.055094,26.331477 8.1618,8.1933 29.269,-57.1387 a 18.2278,18.2278 0 0 1 -9.787,-5.0219 z m -7.1897,14.0363 -14.0022,27.3353 a 18.2278,18.2278 0 0 1 9.786,5.0214 l 12.3775,-24.1639 z"
+         id="path3-4"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#d0188f"
+         d="m -25.585506,15.353877 a 18.2278,18.2278 0 0 1 -10.8655,1.7198 l 8.1762,52.2981 a 18.2278,18.2278 0 0 1 10.8645,-1.7198 z"
+         id="path4-9"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#5b36e9"
+         d="m -2.150206,82.988477 a 18.2278,18.2278 0 0 1 -1.7322,10.8629 l 52.2893,8.390703 a 18.2278,18.2278 0 0 1 1.7322,-10.862903 z"
+         id="path5-2"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#30b873"
+         d="m 69.438694,81.595777 a 18.2278,18.2278 0 0 1 9.788,5.0224 l 24.134496,-47.117 a 18.2278,18.2278 0 0 1 -9.787496,-5.0229 z"
+         id="path6-0"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#ebe305"
+         d="m 60.656794,-32.162123 a 18.2278,18.2278 0 0 1 -7.7975,7.7608 l 37.3765,37.5207 a 18.2278,18.2278 0 0 1 7.7969,-7.7608 z"
+         id="path7-6"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#f47601"
+         d="m -20.705706,-13.694523 a 18.2278,18.2278 0 0 1 4.9723,9.8123 l 47.2478,-23.9453 a 18.2278,18.2278 0 0 1 -4.9718,-9.8113 z"
+         id="path8-8"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#57c115"
+         d="m 52.772994,-24.357923 a 18.2278,18.2278 0 0 1 -10.8511,1.8123 l 4.1853,26.8 11.42,1.8324 z m -4.2333,44.1927 9.8955,63.3631 a 18.2278,18.2278 0 0 1 10.88,-1.6278 l -9.355,-59.9035 z"
+         id="path9-9"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#dbb210"
+         d="m -15.699806,-3.681223 a 18.2278,18.2278 0 0 1 -1.694,10.8686 l 26.8206,4.3077 5.2715,-10.2945 z m 45.9677,7.382 -5.272,10.2955 63.3713,10.1777 a 18.2278,18.2278 0 0 1 1.7606,-10.8593 z"
+         id="path10-2"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#ffca00"
+         d="m 27.962394,-41.480523 a 16.570727,16.570727 0 1 0 33.0924,1.8025 16.570727,16.570727 0 1 0 -33.0924,-1.8025"
+         id="path11-6"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#64ff00"
+         d="m 89.837894,20.634577 a 16.570677,16.570677 0 1 0 33.092296,1.8025 16.570677,16.570677 0 1 0 -33.092296,-1.8025"
+         id="path12-6"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#00a3ff"
+         d="m 49.870494,98.659977 a 16.570677,16.570677 0 1 0 33.0923,1.802503 16.570677,16.570677 0 1 0 -33.0923,-1.802503"
+         id="path13-4"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#9500ff"
+         d="m -36.706306,84.767377 a 16.570677,16.570677 0 1 0 33.0923,1.8025 16.570677,16.570677 0 1 0 -33.0923,-1.8025"
+         id="path14-9"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         fill="#ff0000"
+         d="m -50.246306,-1.844323 a 16.570677,16.570677 0 1 0 33.0923,1.8025 16.570677,16.570677 0 1 0 -33.0923,-1.8025"
+         id="path15-5"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+    <g
+       id="fedi-logo-red"
+       inkscape:label="Fediverse logo red"
+       style="fill:#f80000;fill-opacity:1"
+       transform="matrix(0.18472964,0,0,0.18472964,18.424535,17.964798)">
+      <path
+         fill="#a730b8"
+         d="m -17.551906,7.474177 a 18.2278,18.2278 0 0 1 -7.7959,7.7597 l 42.7984,42.9653 10.3182,-5.2291 z m 56.4524,56.6704 -10.3182,5.2291 21.686,21.7708 a 18.2278,18.2278 0 0 1 7.7975,-7.7608 z"
+         id="path1-8"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#5496be"
+         d="m 64.188394,36.754077 1.7865,11.4272 27.4149,-13.8942 a 18.2278,18.2278 0 0 1 -4.9719,-9.8124 z m -14.0658,7.1282 -57.2891,29.0339 a 18.2278,18.2278 0 0 1 4.9728,9.8133 l 54.1027,-27.4194 z"
+         id="path2"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#ce3d1a"
+         d="m 4.055094,26.331477 8.1618,8.1933 29.269,-57.1387 a 18.2278,18.2278 0 0 1 -9.787,-5.0219 z m -7.1897,14.0363 -14.0022,27.3353 a 18.2278,18.2278 0 0 1 9.786,5.0214 l 12.3775,-24.1639 z"
+         id="path3"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#d0188f"
+         d="m -25.585506,15.353877 a 18.2278,18.2278 0 0 1 -10.8655,1.7198 l 8.1762,52.2981 a 18.2278,18.2278 0 0 1 10.8645,-1.7198 z"
+         id="path4"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#5b36e9"
+         d="m -2.150206,82.988477 a 18.2278,18.2278 0 0 1 -1.7322,10.8629 l 52.2893,8.390703 a 18.2278,18.2278 0 0 1 1.7322,-10.862903 z"
+         id="path5"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#30b873"
+         d="m 69.438694,81.595777 a 18.2278,18.2278 0 0 1 9.788,5.0224 l 24.134496,-47.117 a 18.2278,18.2278 0 0 1 -9.787496,-5.0229 z"
+         id="path6"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#ebe305"
+         d="m 60.656794,-32.162123 a 18.2278,18.2278 0 0 1 -7.7975,7.7608 l 37.3765,37.5207 a 18.2278,18.2278 0 0 1 7.7969,-7.7608 z"
+         id="path7"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#f47601"
+         d="m -20.705706,-13.694523 a 18.2278,18.2278 0 0 1 4.9723,9.8123 l 47.2478,-23.9453 a 18.2278,18.2278 0 0 1 -4.9718,-9.8113 z"
+         id="path8"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#57c115"
+         d="m 52.772994,-24.357923 a 18.2278,18.2278 0 0 1 -10.8511,1.8123 l 4.1853,26.8 11.42,1.8324 z m -4.2333,44.1927 9.8955,63.3631 a 18.2278,18.2278 0 0 1 10.88,-1.6278 l -9.355,-59.9035 z"
+         id="path9"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#dbb210"
+         d="m -15.699806,-3.681223 a 18.2278,18.2278 0 0 1 -1.694,10.8686 l 26.8206,4.3077 5.2715,-10.2945 z m 45.9677,7.382 -5.272,10.2955 63.3713,10.1777 a 18.2278,18.2278 0 0 1 1.7606,-10.8593 z"
+         id="path10"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#ffca00"
+         d="m 27.962394,-41.480523 a 16.570727,16.570727 0 1 0 33.0924,1.8025 16.570727,16.570727 0 1 0 -33.0924,-1.8025"
+         id="path11"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#64ff00"
+         d="m 89.837894,20.634577 a 16.570677,16.570677 0 1 0 33.092296,1.8025 16.570677,16.570677 0 1 0 -33.092296,-1.8025"
+         id="path12"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#00a3ff"
+         d="m 49.870494,98.659977 a 16.570677,16.570677 0 1 0 33.0923,1.802503 16.570677,16.570677 0 1 0 -33.0923,-1.802503"
+         id="path13"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#9500ff"
+         d="m -36.706306,84.767377 a 16.570677,16.570677 0 1 0 33.0923,1.8025 16.570677,16.570677 0 1 0 -33.0923,-1.8025"
+         id="path14"
+         style="fill:#f80000;fill-opacity:1" />
+      <path
+         fill="#ff0000"
+         d="m -50.246306,-1.844323 a 16.570677,16.570677 0 1 0 33.0923,1.8025 16.570677,16.570677 0 1 0 -33.0923,-1.8025"
+         id="path15"
+         style="fill:#f80000;fill-opacity:1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ANTIFASCIST FEDIVERSE</dc:title>
+        <dc:date>2024-08-15</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>No rights reserved</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>AntiFa</rdf:li>
+            <rdf:li>Fediverse</rdf:li>
+            <rdf:li>Anti-Fascism</rdf:li>
+            <rdf:li>AntiFascism</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>@tommi@pan.rent</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
