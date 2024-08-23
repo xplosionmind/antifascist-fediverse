@@ -12,7 +12,7 @@ Ready-to-use files in PNG, PDF, and optimized SVG will be attached to every new 
 
 It is a crazy coincidence that [a new Fediverse symbol](https://symbol.fediverse.info 'Website for the new Fediverse symbol proposal') proposal was advanced exactly one week after I published [the first version of the sticker](https://codeberg.org/tommi/antifascist-fediverse/releases/tag/v1.0 '“First release!” for tommi/antifascist-fediverse, on Codeberg') with the “old” logo on it! No problem, if not that I just printed a thousand 5x5cm version 1 stickers… 🤯
 
-Despite the terrible timing for the stickers printing, I am very happy about this new symbol proposal, I love it! I had to create [a second version](https://codeberg.org/tommi/antifascist-fediverse/releases/tag/v2.0) with the asterism symbol! 🚀
+Despite the terrible timing for the stickers printing, I am very happy about this new symbol proposal, I love it! I created with great pleasure [a second version](https://codeberg.org/tommi/antifascist-fediverse/releases/tag/v2.0) with the asterism symbol! 🚀
 
 ## 🤖 Software and resources
 
