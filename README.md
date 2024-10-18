@@ -1,6 +1,8 @@
-# 🔥 Anti-Fascist Fediverse sticker!
-
-A sticker to show off the Anti-Fascist strength of the Fediverse!
+<div class='center'>
+	<h1>🔥 Anti-Fascist Fediverse sticker!</h1>
+	<p>Cool art and stickers to fight for an Anti-Fascist Fediverse!</p>
+	<a href='https://fightfascism.glitch.me/'><img src='https://cdn.glitch.com/2249eb84-18cb-406f-a492-82a272962e6f%2Ffightfascismred-220xpx.jpg' title='Fight Fascism sticker by Angus Johnston' alt='Fight fascism' width='220' height='37'></a>
+</div>
 
 ## 🗃️ Files and formats
 
